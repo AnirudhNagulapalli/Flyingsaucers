@@ -1,0 +1,5 @@
+** train.csv file is attached as a google drive link as it wasnt allowing us to upload to the github (>100mb) **
+
+** the same thing happened with the databaseDump.sql **
+
+** Google drive link - https://drive.google.com/drive/folders/1Mt_Xc5GOS6FJ1F8gTgR0J6kxayt-3Tjf?usp=sharing **
